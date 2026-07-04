@@ -19,7 +19,7 @@ A clean and professional dental clinic website concept focused on trust, accessi
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://lumen-dental-ruddy.vercel.app/
 
 ## 👨‍💻 Developer
 
